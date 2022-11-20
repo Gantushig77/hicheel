@@ -1,0 +1,36 @@
+.container {
+    padding: 0 2rem;
+}
+  
+.testStyle {
+    color: white;
+}
+
+.label {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.submit {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.checkBox {
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.input {
+    margin-bottom: 10px;
+}
+
+.inputError {
+    margin-bottom: 0px;
+    border-color: red;
+}
+
+.errorText {
+    font-weight: 300;
+    font-size: 10px;
+}
